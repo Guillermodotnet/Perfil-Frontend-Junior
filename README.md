@@ -48,7 +48,7 @@ El desempeño se evaluará conforme al sistema de la empresa (trimestral o semes
 ### Competencias principales
 - Formación en informática, desarrollo de software o experiencia equivalente.  
 - Bases sólidas en fundamentos de programación, algoritmos y estructuras de datos.  
-- Conocimientos de fundamentos web.  
+- Conocimientos en fundamentos web.  
 - Manejo de los lenguajes: **HTML, CSS, JavaScript y TypeScript**.  
 - Conocimientos básicos en alguno de los siguientes frameworks: **React, Angular o Vue**.  
 - Uso de **Git y GitHub** para control de versiones.  
